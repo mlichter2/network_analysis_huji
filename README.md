@@ -1,1 +1,1 @@
-# networks
+# Network Analysis Course

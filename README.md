@@ -1,6 +1,6 @@
 # Network Analysis Course
 
-
+![](data/fig2.png)
 ## Syllabus
 http://www4.huji.ac.il/htph/shnaton/index.php/NewSyl/40892/2/2019/
 
@@ -39,7 +39,7 @@ libraries.
 *Course/Module aims:*
 Acquiring knowledge and skills to analyse networks
 
-Learning outcomes - On successful completion of this module, students should be
+*Learning outcomes - On successful completion of this module, students should be
 able to:*
  * Describe what are networks and explain basic network theory concepts
 * Represent networks in different ways and describe the benefits and drawbacks of
@@ -53,21 +53,26 @@ each
 *Teaching arrangement and method of instruction:*
 
 *Course/Module Content:*
+
+presentations: https://drive.google.com/drive/folders/1YfkPq4rDZryyUJcRhitU2t31aBSy5xH1?usp=sharing
+
  * Introduction
- * General concepts
+   * General concepts
  * Network types
  * Paths
- * Depth First Search (DFS)
- * Breadth First Search (BFS)
- * Shortest path problem
- * Dijkstra
+   * Depth First Search (DFS)
+   * Breadth First Search (BFS)
+   * Shortest path problem
+   * Dijkstra
  * Network Properties
- * Distance measures
- * Clustering Coefficient
- * Connected Components
+   * Distance measures
+   * Clustering Coefficient
+   * Connected Components
  * Social Networks and centrality and influence measures
  * Road and transportation networks and accessibility and connectivity measures
- * Route problems: Seven bridges of Königsberg, Traveling salesman problem 
+ * Route problems
+   * Seven bridges of Königsberg
+   * Traveling salesman problem 
 
 *Required Reading:*
  * NetworkX:

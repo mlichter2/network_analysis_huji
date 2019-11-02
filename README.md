@@ -1,6 +1,7 @@
 # Network Analysis Course
 
 ![](data/fig2.png)
+building level accessibility to services analysis using OSM road network
 ## Syllabus
 http://www4.huji.ac.il/htph/shnaton/index.php/NewSyl/40892/2/2019/
 
@@ -23,7 +24,7 @@ http://www4.huji.ac.il/htph/shnaton/index.php/NewSyl/40892/2/2019/
 
 *Course/Module Coordinator:* Dr. Michal Lichter
 
-*Coordinator Email:* Michal.Lichter@mail.huji.ac.il
+*Coordinator Email:* michal.lichter@mail.huji.ac.il
 
 *Coordinator Office Hours:*
 
